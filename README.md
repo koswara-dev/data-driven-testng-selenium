@@ -34,3 +34,9 @@ Berikut adalah elemen utama dan manfaat dari Data Driven Testing:
    - DDT mendukung pengujian dalam skala besar dengan data yang besar, memungkinkan pengujian berbagai skenario tanpa harus menulis ulang skrip pengujian.
 
 Dengan pendekatan ini, Data Driven Testing memungkinkan pengujian yang lebih efisien dan efektif, memastikan bahwa aplikasi diuji dengan berbagai kondisi dan skenario yang mungkin terjadi di lingkungan nyata.
+
+## Buy me a coffe
+
+If you like this project and want to support its further development, buy me a coffee!
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/kudajengke404)
